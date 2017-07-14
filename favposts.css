@@ -1,0 +1,90 @@
+.cat-design a {
+-moz-background-clip:border;
+-moz-background-inline-policy:continuous;
+-moz-background-origin:padding;
+background:#960202 none repeat scroll 0 0;
+color:#FFFFFF;
+float:right;
+font-size:11px;
+margin-bottom:12px;
+padding:5px 5px 8px;
+text-decoration:none;
+}
+.cat-design a:hover {
+-moz-background-clip:border;
+-moz-background-inline-policy:continuous;
+-moz-background-origin:padding;
+background:#444444 none repeat scroll 0 0;
+color:#E7E7E7;
+float:right;
+font-size:11px;
+margin-bottom:12px;
+padding:5px 5px 8px;
+text-decoration:none;
+}
+
+.cat-nodesign a {
+-moz-background-clip:border;
+-moz-background-inline-policy:continuous;
+-moz-background-origin:padding;
+color:#000000;
+float:left;
+font-size:12px;
+margin:12px 0px 0px 15px;
+padding:0px;
+text-decoration:none;
+
+}
+.cat-nodesign a:hover {
+-moz-background-clip:border;
+-moz-background-inline-policy:continuous;
+-moz-background-origin:padding;
+color:#000000;
+float:left;
+font-size:12px;
+margin:12px 0px 0px 15px;
+padding:0px 0px 0px;
+text-decoration:underline;
+}
+
+.fav-title a {
+color:#000000;
+text-decoration:none;
+}
+
+.fav-title a:hover {
+color:#ED972B;
+text-decoration:none;
+}
+
+.favblok-design {
+-moz-background-clip:border;
+-moz-background-inline-policy:continuous;
+-moz-background-origin:padding;
+background:#F3F2F2 url(img/favbg.gif) repeat-x scroll center top;
+border-bottom:1px dotted #C7C7C7;
+margin:10px 0 15px;
+padding:2px 10px 20px 15px;
+line-height: 15px;
+
+
+}
+
+
+.favblok-nodesign {
+-moz-background-clip:border;
+-moz-background-inline-policy:continuous;
+-moz-background-origin:padding;
+border-bottom:1px solid #C7C7C7;
+margin:10px 0 15px;
+padding:10px 10px 20px 15px;
+line-height: 15px;
+}
+
+
+.favimg {
+float:left; 
+margin:4px 10px 0px 0px; 
+padding:1px; 
+border:1px solid #a2a2a2;
+}
